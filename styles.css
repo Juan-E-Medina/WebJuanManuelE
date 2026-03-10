@@ -59,6 +59,14 @@ button:hover {
     box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.2);
 }
 
+.image-container {
+    flex: 1;
+    background-color: #333;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
 #info {
     padding: 50px;
     background-color: #f4f4f4;
